@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurav Swami</h1>
+<h3 align="center">.NET Developer | ASP.NET MVC | Web API</h3>
 
-<!--
-**saurav100100/saurav100100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- 💻 I’m a .NET Developer
+- 🌱 Learning Web API & Advanced .NET
+- 🎯 Goal: Full Stack Developer
+- 📍 Pune, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack:
+- C#, ASP.NET MVC, Web API  
+- SQL Server  
+- HTML, CSS, JavaScript  
+
+---
+
+### 📊 GitHub Stats:
+![stats](https://github-readme-stats.vercel.app/api?username=saurav100100&show_icons=true)
+
+---
+
+### 🔥 Streak:
+![streak](https://streak-stats.demolab.com/?user=saurav100100)
