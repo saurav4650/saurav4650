@@ -27,9 +27,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=saurav100100&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurav4650&show_icons=true&theme=radical)
 ---
 
 ### 🔥 Streak:
-![streak](https://streak-stats.demolab.com/?user=saurav100100)
+![GitHub Streak](https://streak-stats.demolab.com?user=saurav4650&theme=radical)
