@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 - 💼 Full Stack Developer at **Aviraj Innovation Pvt. Ltd**
-- 🧠 1.6+ years of experience in .NET technologies
+- 🧠 2+ years of experience in .NET technologies
 - 🚀 Skilled in building scalable web applications
 - 📍 Pune, India
 
