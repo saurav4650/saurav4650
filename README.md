@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurav Swami</h1>
-<h3 align="center">Full Stack Developer (.NET) | 2+ Years Experience</h3>
+<h3 align="center">Full Stack Developer (.NET) | 1.5 Years Experience</h3>
 
 ---
 
 ### 👨‍💻 About Me:
 - 💼 Full Stack Developer at **Aviraj Innovation Pvt. Ltd**
-- 🧠 2+ years of experience in .NET technologies
+- 🧠 1.5 years of experience in .NET technologies
 - 🚀 Skilled in building scalable web applications
 - 📍 Pune, India
 
